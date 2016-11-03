@@ -1,3 +1,8 @@
+homebunk:
+    resource: "@HomebunkBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 logout:
     path: /logout
 
